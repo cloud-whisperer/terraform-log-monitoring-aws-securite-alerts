@@ -24,7 +24,7 @@ Designed for **hands-on DevSecOps and AWS security experience**, this project is
 - 🧪 **Simulate security events** and validate alert delivery  
 - 🧹 **Clean up all resources** to avoid unnecessary costs  
 
-![Alt Text](900x500_overview_WATERMARK_lc.jpg)
+![Alt Text](700x450_overview_WATERMARK_lc.jpg)
 
 ---
 
