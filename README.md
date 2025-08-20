@@ -1,8 +1,3 @@
-# terraform-log-monitoring-aws-security-alerts
-🔁 *Provision AWS infrastructure for monitoring, alerting, and self-healing security setups with Terraform*
-
----
-
 ## 🧭 Project Overview
 
 This Proof of Concept (PoC) provisions a **secure AWS environment** for **log monitoring and automated security alerts** using Terraform.  
