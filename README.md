@@ -9,8 +9,6 @@ This Proof of Concept (PoC) provisions a **secure AWS environment** for **log mo
 
 It demonstrates **IAM users/roles, EC2 instances, CloudTrail, SNS, SQS, and an optional Application Load Balancer**, simulating a real-world **security monitoring architecture**.
 
-Designed for **hands-on DevSecOps and AWS security experience**, this project is ideal for demonstrating practical skills to recruiters.
-
 ---
 
 ## 🚀 Key Steps Implemented
